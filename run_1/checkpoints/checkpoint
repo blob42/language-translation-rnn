@@ -1,0 +1,2 @@
+model_checkpoint_path: "/output/run_1/checkpoints/"
+all_model_checkpoint_paths: "/output/run_1/checkpoints/"
